@@ -2,12 +2,13 @@ name: God Hates Christians
 favicon: null
 layout_spectrum: 0.6708053771872073
 typography_spectrum: 0.5362691464833915
+title: God Hates Christians
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71756403-1
   facebook: null
   twitter: null
 opengraph:
