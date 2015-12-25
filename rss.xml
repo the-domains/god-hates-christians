@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[God Hates Christians]]></title>
         <description><![CDATA[God Hates Christians]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://godhateschristians.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 07:30:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Dec 2015 07:56:56 GMT</lastBuildDate>
+        <atom:link href="http://godhateschristians.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b81bad7c-3ebb-452a-a168-4d571761566a.jpg">]]></description>
+            <link>http://godhateschristians.org/22e12699-a849-483d-98fc-5d8fca736c04/index.html</link>
+            <guid isPermaLink="false">22e12699-a849-483d-98fc-5d8fca736c04</guid>
+            <pubDate>Fri, 25 Dec 2015 07:56:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Philippine Muslim guerrillas murder seven in Christmas eve raids]]></title>
-            <description><![CDATA[<article><h1>Philippine Muslim guerrillas murder seven in Christmas eve raids</h1><p>Posted December 25, 2015 00:13:51 At least seven Christian farmers have been killed as Muslim guerrillas launched a series of attacks in the troubled southern Philippines, the military says. The fighters of the Bangsamoro Islamic Freedom Fighters (BIFF) seized the seven and then killed them in a series of raids on the island of Mindanao where Christian-Muslim conflicts have seethed for decades.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bccdfcb59942adda4023c48b2f01e783c6385816.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Philippine Muslim guerrillas murder seven in Christmas eve raids</h1><p>Posted December 25, 2015 00:13:51 At least seven Christian farmers have been killed as Muslim guerrillas launched a series of attacks in the troubled southern Philippines, the military says. The fighters of the Bangsamoro Islamic Freedom Fighters (BIFF) seized the seven and then killed them in a series of raids on the island of Mindanao where Christian-Muslim conflicts have seethed for decades.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2b27c7a8c12b2c79d3e93e0d0f7aeb4114cd0ca.jpg"></article>]]></description>
             <link>http://www.abc.net.au/news/2015-12-25/philippine-muslim-guerrillas-murder-seven-in-christmas-eve-raids/7053850</link>
             <guid isPermaLink="false">0a647ec0-788b-475d-b37e-1b4fe390e7e1</guid>
             <pubDate>Fri, 25 Dec 2015 07:30:18 GMT</pubDate>
