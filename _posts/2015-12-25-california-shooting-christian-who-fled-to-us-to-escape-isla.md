@@ -17,8 +17,8 @@ keywords:
   - espinoza
   - amanios
 description: "Another victim was Nicholas Thalasinos, a Messianic Jew who wore a tie clip with the Star of David. It is thought that the 52-year-old restaurant inspector had an argument with suspect Syed Farook about Islam just two weeks before the tragedy. Mr Thalasinos' wife, Jennifer, said: \"My husband was just a very devout believer."
-datePublished: '2015-12-25T09:18:11.316Z'
-dateModified: '2015-12-25T09:08:57.886Z'
+datePublished: '2015-12-26T00:39:50.813Z'
+dateModified: '2015-12-26T00:39:47.199Z'
 author:
   - name: Scott Campbell
     url: 'http://www.express.co.uk/journalist/122406/Scott-Campbell'
@@ -26,16 +26,18 @@ author:
 related: []
 app_links: []
 title: 'California shooting: Christian who fled to US to escape Islamic extremism among 14 victims'
+sourcePath: _posts/2015-12-25-california-shooting-christian-who-fled-to-us-to-escape-isla.md
+published: true
 authors: []
 publisher:
   name: Express.co.uk
   domain: www.express.co.uk
   url: 'http://www.express.co.uk'
   favicon: 'http://cdn.images.express.co.uk/img/favicon.ico'
-sourcePath: _posts/2015-12-25-california-shooting-christian-who-fled-to-us-to-escape-isla.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Christians can flee persecution in the middle east only to be murdered in the US. God respects no country.
+
 <article style=""><h1>California shooting: Christian who fled to US to escape Islamic extremism among 14 victims</h1><p>Another victim was Nicholas Thalasinos, a Messianic Jew who wore a tie clip with the Star of David. It is thought that the 52-year-old restaurant inspector had an argument with suspect Syed Farook about Islam just two weeks before the tragedy. Mr Thalasinos' wife, Jennifer, said: "My husband was just a very devout believer.</p><img src="http://cdn.images.express.co.uk/img/dynamic/78/590x/Benneta-Betbadal-Nicholas-Thalasinos-Aurora-Godoy-San-Bernardino-California-US-shooting-624169.jpg" /></article>
